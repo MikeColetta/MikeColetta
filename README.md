@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student enrolled in the University of Washington Full Stack Web Development Bootcamp. Currently I've just started learning back end development with node.js. If you'd like to reach out, please send me an email at (coletta.mike@gmail.com).
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeColetta&theme=midnight-purple&show_icons=true)
 <!--
 **MikeColetta/MikeColetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
