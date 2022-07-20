@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent graduate of the University of Washington Full Stack Web Development Bootcamp. If you'd like to reach out, please send me an [email](mailto:coletta.mike@gmail.com) at coletta.mike@gmail.com.
+I'm a graduate of the University of Washington Full Stack Web Development Bootcamp. If you'd like to reach out, please send me an [email](mailto:coletta.mike@gmail.com) at coletta.mike@gmail.com.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeColetta&theme=midnight-purple&show_icons=true)
 
